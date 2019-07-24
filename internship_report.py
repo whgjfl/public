@@ -51,6 +51,7 @@
 #     (link : https://colab.research.google.com/drive/1UVmIRXXqQeVZnZGZx4sm52ak9hMMgyud)
 #  - try connect output of ResNet50 with attention pooling
 
+######  implement Selfie part #####
 
 #### index ####
 # 1. Subject
