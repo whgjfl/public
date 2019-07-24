@@ -1,32 +1,51 @@
 #### i will write work done this part #### 
-#  6/27 ~ 6/28 practice to get used to tensorflow(study CNN using MNIST dataset)
-#               - write report that azamat's question about CNN report
-#                 (study link : https://colab.research.google.com/drive/1UXpv0Na4cH4NjsXxKr7S0nt4qopzHWJ2)
-#                 (azamat's question report : http://bitly.kr/XnaELM)
+#  6/27 ~ 6/28 
+# practice to get used to tensorflow(study CNN using MNIST dataset)
+#  - write report that azamat's question about CNN report
+#    (study link : https://colab.research.google.com/drive/1UXpv0Na4cH4NjsXxKr7S0nt4qopzHWJ2)
+#    (azamat's question report : http://bitly.kr/XnaELM)
 #
-#  7/2 ~ 7/5   practice to get used to tensorflow(implement ResNet)
-#               - In progress, read and summary journal papers(ResNet)
-#               - add content about Using the ResNet package in tensorflow
-#               - In progress, read and summary journal papers(ResNet)
-#                 = 1. Slim (link : https://colab.research.google.com/drive/1tRbo0STlCWjVesrw8Laen23ZEL7TQrly)                     
-#                 = 2. tf.application.contrib.lib (link : http://bitly.kr/XZ0HYV)
-#               - Checking helpful thing in related journal paper
-#                 = BERT(position embedding)
-#                 = implement codes
-#                  - searched code modify for use 7/9~7/12(because a few related)
-#                   link : https://github.com/bbrattoli/JigsawPuzzlePytorch
-#                 - reading and understanding a journal paper
-#                 (Unsupervised learning of visual representations by solving jigsaw puzzles)
+#  7/2 ~ 7/5
+# Practice to get used to tensorflow(implement ResNet)
+#  - read and summary journal papers(ResNet)
+#  - add content about Using the ResNet package in tensorflow
+#   = Slim (link : https://colab.research.google.com/drive/1tRbo0STlCWjVesrw8Laen23ZEL7TQrly)                     
+#   = tf.application.contrib.lib (link : http://bitly.kr/XZ0HYV)                 
 #
+# Implement Selfie  
+#  - Checking and reading helpful thing in related journal paper
+#    = Unsupervised learning of visual representations by solving jigsaw puzzles(image preprocessing)
+#    = BERT(position embedding, pooling)
+#                 
+#  7/8 ~ 7/12 
+# Implement Selfie  
+#  - modify searched code for use
+#    = Unsupervised learning of visual representations by solving jigsaw puzzles(image preprocessing)
+#      (link : https://github.com/bbrattoli/JigsawPuzzlePytorch)
 #
+#  7/15 ~ 7/17
+# after meeting with azamat, Found out that the method of last week was wrong.
+# So i accessed other way  
 #
+# Implement Selfie  
+#  - image crop to patch(use image_slicer package)
+#  - perform zero-padding and randomized crop to original size 
+#  - connect patches of cropped with ResNet50
+#    (link : https://colab.research.google.com/drive/1umcyIPbBzvTaRLDc8zXvFuUPE9J9M7oY)
 #
+#  7/18 ~ 7/19
+# Implement Selfie  
+#  - laskt week writed code fix(request of azamat)
+#  - try to understand structure of BERT, Transformer(use to attention pooling)
+#  - try to connect output of ResNet50 with attention pooling
+#  - modify transformer source code(downloaded yesterday)
+#    (link : https://colab.research.google.com/drive/1iT6MvTVdh-YwTly00-YIDMLLrl9PDh3q)
 #
-#
-#
-
-
-
+#  7/22 ~ 7/24
+# Implement Selfie  
+#  - change Feedfoward activation function(ReLu) to GeLU
+#     (link : https://colab.research.google.com/drive/1UVmIRXXqQeVZnZGZx4sm52ak9hMMgyud)
+#  - try connect output of ResNet50 with attention pooling
 
 
 #### index ####
