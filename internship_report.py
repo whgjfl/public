@@ -1,11 +1,15 @@
-#### i will write work done this part #### 
-#  6/27 ~ 6/28 
+#### work history #### 
+#  6/24 ~ 6/25
+# reading and summary paper(Selfie) 
+# (link : https://docs.google.com/document/d/19owX6i1E8zsRfNZOx9SiB5ZjHar3vxhRD2kbhHQY2Ac/edit?usp=sharing) 
+#
+#  6/26 ~ 6/28 
 # practice to get used to tensorflow(study CNN using MNIST dataset)
 #  - write report that azamat's question about CNN report
 #    (study link : https://colab.research.google.com/drive/1UXpv0Na4cH4NjsXxKr7S0nt4qopzHWJ2)
 #    (azamat's question report : http://bitly.kr/XnaELM)
 #
-#  7/2 ~ 7/5
+#  7/1 ~ 7/5
 # Practice to get used to tensorflow(implement ResNet)
 #  - read and summary journal papers(ResNet)
 #  - add content about Using the ResNet package in tensorflow
@@ -38,7 +42,7 @@
 #  - laskt week writed code fix(request of azamat)
 #  - try to understand structure of BERT, Transformer(use to attention pooling)
 #  - try to connect output of ResNet50 with attention pooling
-#  - modify transformer source code(downloaded yesterday)
+#  - modify transformer source code
 #    (link : https://colab.research.google.com/drive/1iT6MvTVdh-YwTly00-YIDMLLrl9PDh3q)
 #
 #  7/22 ~ 7/24
